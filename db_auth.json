@@ -1,0 +1,6 @@
+{ 
+"postgres_server": "<e.g.localhost>", 
+"database": "<database name>", 
+"user": "<username>", 
+"password": "<password>"
+}
